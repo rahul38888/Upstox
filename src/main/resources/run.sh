@@ -1,0 +1,1 @@
+java -jar upstox.jar /home/rahuls/Desktop/test.csv
